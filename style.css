@@ -1,0 +1,102 @@
+body {
+    background-image: linear-gradient(#4ec6df, #b1dae2);
+	background-attachment:fixed;
+	height:100%;
+}
+
+p {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+    background-color: #ffffff;
+    width: 30%;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px #305469;
+    max-width: 500px;
+	margin: 0 auto;
+}
+	
+form input[type=email],
+form input[type=password]
+{
+    background-color: rgb(204, 204, 204);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    width: 100%;
+    height: 50px; 
+    margin: 10px auto;
+
+    border: 1px solid rgb(48, 48, 187);
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn_login
+{
+    background-color: rgb(48, 48, 187);
+    color: white;
+    
+
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    width: 100%; /* TAMANHO HORIZONTAL */
+    height: 50px; /* TAMANHO VERTICAL */
+    margin: 10px 0;
+
+    border: none;
+    border-radius: 15px;
+
+    cursor: pointer;
+}
+
+.btn_cadastro {
+    background-color: rgb(255, 255, 255);
+    color: rgb(48, 48, 187);
+
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    width: 100%; /* TAMANHO HORIZONTAL */
+    height: 50px; /* TAMANHO VERTICAL */
+    margin: 10px 0;
+
+    border: 2px solid rgb(48, 48, 187);
+    border-radius: 15px;
+
+    cursor: pointer;
+}
+
+.btn_cadastro:hover {
+    background-color: #e2e2e2;
+    transition: 1s;
+}
+
+.separa_login_cadastro {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.container-logo {
+    text-align: center;
+}

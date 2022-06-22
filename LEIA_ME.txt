@@ -1,0 +1,10 @@
+v0.0.1
+
+Nem em Beta estamos ainda, além disso só tem a página de login (que nem funciona ainda), mas a gente consegue fazer o rascunho de tudo até o final de Abril se tudo der certo :)
+
+FALTA:
+- PÁGINA INICIAL
+- PHP DO LOGIN
+- BANCO DE DADOS PARA REGISTRO DOS USUÁRIO
+- BANCO DE DADOS DOS OUTROS DADOS (OLHAR O ENUNCIADO)
+- PÁGINA DE CADASTRO
